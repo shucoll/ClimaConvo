@@ -1,6 +1,6 @@
 <h1 font-size:40px align="center">ClimaConvo</h1>
 
-This repository contains the data and code for our paper "Analyzing the Dynamics of Climate Change Discourse on Twitter: A New Annotated Corpus and Multi-Aspect Classification." published at LREC-COLING 2024.
+This repository contains the data and code for our paper **<a href="https://aclanthology.org/2024.lrec-main.88/">Analyzing the Dynamics of Climate Change Discourse on Twitter: A New Annotated Corpus and Multi-Aspect Classification**</a> published at LREC-COLING 2024.
 
 ## Abstract
 
