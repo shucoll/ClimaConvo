@@ -54,3 +54,16 @@ The discourse surrounding climate change on social media platforms has emerged a
 | Individual | 1 | 
 | Organization | 2 | 
 | Community | 3 |
+
+
+## Citation
+
+```
+@inproceedings{shiwakoti2024analyzing,
+  title={Analyzing the dynamics of climate change discourse on twitter: A new annotated corpus and multi-aspect classification},
+  author={Shiwakoti, Shuvam and Thapa, Surendrabikram and Rauniyar, Kritesh and Shah, Akshyat and Bhandari, Aashish and Naseem, Usman},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={984--994},
+  year={2024}
+}
+```
